@@ -1,0 +1,6 @@
+{
+  "data": "data",
+  "features": "features",
+  "trained_model": "trained",
+  "submission": "target"
+}
